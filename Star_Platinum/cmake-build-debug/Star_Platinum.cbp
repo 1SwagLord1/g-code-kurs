@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Star_Platinum"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/alexshooter/CLionProjects/Star_Platinum/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/alexshooter/CLionProjects/Star_Platinum/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/alexshooter/CLionProjects/Star_Platinum/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/alexshooter/CLionProjects/Star_Platinum/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/alexshooter/CLionProjects/Star_Platinum/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/alexshooter/CLionProjects/Star_Platinum/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/alexshooter/CLionProjects/Star_Platinum/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/alexshooter/CLionProjects/Star_Platinum/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/alexshooter/CLionProjects/Star_Platinum/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/alexshooter/CLionProjects/Star_Platinum/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/alexshooter/CLionProjects/Star_Platinum/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/alexshooter/CLionProjects/Star_Platinum/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/alexshooter/CLionProjects/Star_Platinum/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/alexshooter/CLionProjects/Star_Platinum/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/alexshooter/CLionProjects/Star_Platinum/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Star_Platinum">
+				<Option output="/Users/alexshooter/CLionProjects/Star_Platinum/cmake-build-debug/Star_Platinum" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/alexshooter/CLionProjects/Star_Platinum/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/alexshooter/CLionProjects/Star_Platinum/cmake-build-debug/Makefile&quot;  VERBOSE=1 Star_Platinum"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/alexshooter/CLionProjects/Star_Platinum/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/alexshooter/CLionProjects/Star_Platinum/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/alexshooter/CLionProjects/Star_Platinum/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Star_Platinum/fast">
+				<Option output="/Users/alexshooter/CLionProjects/Star_Platinum/cmake-build-debug/Star_Platinum" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/alexshooter/CLionProjects/Star_Platinum/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/alexshooter/CLionProjects/Star_Platinum/cmake-build-debug/Makefile&quot;  VERBOSE=1 Star_Platinum/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/alexshooter/CLionProjects/Star_Platinum/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/alexshooter/CLionProjects/Star_Platinum/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/alexshooter/CLionProjects/Star_Platinum/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/alexshooter/CLionProjects/Star_Platinum/Hierophant_Green.h">
+			<Option target="Star_Platinum"/>
+		</Unit>
+		<Unit filename="/Users/alexshooter/CLionProjects/Star_Platinum/Purple_Hemmit.h">
+			<Option target="Star_Platinum"/>
+		</Unit>
+		<Unit filename="/Users/alexshooter/CLionProjects/Star_Platinum/Silver_Chariott.h">
+			<Option target="Star_Platinum"/>
+		</Unit>
+		<Unit filename="/Users/alexshooter/CLionProjects/Star_Platinum/main.c">
+			<Option target="Star_Platinum"/>
+		</Unit>
+		<Unit filename="/Users/alexshooter/CLionProjects/Star_Platinum/menu.h">
+			<Option target="Star_Platinum"/>
+		</Unit>
+		<Unit filename="/Users/alexshooter/CLionProjects/Star_Platinum/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
